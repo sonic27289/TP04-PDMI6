@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NbpjcRN3Ftdzu9Ng9I0G+nhBrbSoADj1Z4fCv/+97th/oQZx4h94fEKb1LgYb9Le7zSMC27wN/BrBRV6ctiIfQ==",
+  "dgSpecHash": "+7nDm+Fw9dRxNEBfxLioVG8G4juiM9zOPDAV8xJJYtWAtN+Ofsouw4bDvDfeVOfSJ3vlsAkkjrufMBwRNUxiUA==",
   "success": true,
-  "projectFilePath": "E:\\Projetos\\FetchData\\FetchData\\FetchData.Android\\FetchData.Android.csproj",
+  "projectFilePath": "E:\\Projetos\\TP04-PDMI6\\FetchData\\FetchData\\FetchData.Android\\FetchData.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

@@ -2198,11 +2198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projetos\\FetchData\\FetchData\\FetchData.Android\\FetchData.Android.csproj",
+      "projectUniqueName": "E:\\Projetos\\TP04-PDMI6\\FetchData\\FetchData\\FetchData.Android\\FetchData.Android.csproj",
       "projectName": "FetchData.Android",
-      "projectPath": "E:\\Projetos\\FetchData\\FetchData\\FetchData.Android\\FetchData.Android.csproj",
+      "projectPath": "E:\\Projetos\\TP04-PDMI6\\FetchData\\FetchData\\FetchData.Android\\FetchData.Android.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\Projetos\\FetchData\\FetchData\\FetchData.Android\\obj\\",
+      "outputPath": "E:\\Projetos\\TP04-PDMI6\\FetchData\\FetchData\\FetchData.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2225,8 +2225,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "E:\\Projetos\\FetchData\\FetchData\\FetchData\\FetchData.csproj": {
-              "projectPath": "E:\\Projetos\\FetchData\\FetchData\\FetchData\\FetchData.csproj"
+            "E:\\Projetos\\TP04-PDMI6\\FetchData\\FetchData\\FetchData\\FetchData.csproj": {
+              "projectPath": "E:\\Projetos\\TP04-PDMI6\\FetchData\\FetchData\\FetchData\\FetchData.csproj"
             }
           }
         }

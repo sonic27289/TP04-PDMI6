@@ -590,11 +590,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projetos\\FetchData\\FetchData\\FetchData\\FetchData.csproj",
+      "projectUniqueName": "E:\\Projetos\\TP04-PDMI6\\FetchData\\FetchData\\FetchData\\FetchData.csproj",
       "projectName": "FetchData",
-      "projectPath": "E:\\Projetos\\FetchData\\FetchData\\FetchData\\FetchData.csproj",
+      "projectPath": "E:\\Projetos\\TP04-PDMI6\\FetchData\\FetchData\\FetchData\\FetchData.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\Projetos\\FetchData\\FetchData\\FetchData\\obj\\",
+      "outputPath": "E:\\Projetos\\TP04-PDMI6\\FetchData\\FetchData\\FetchData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files (x86)\\Visual Studio Shared\\NuGetPackages",

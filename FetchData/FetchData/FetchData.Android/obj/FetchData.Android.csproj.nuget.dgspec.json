@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projetos\\FetchData\\FetchData\\FetchData.Android\\FetchData.Android.csproj": {}
+    "E:\\Projetos\\TP04-PDMI6\\FetchData\\FetchData\\FetchData.Android\\FetchData.Android.csproj": {}
   },
   "projects": {
-    "E:\\Projetos\\FetchData\\FetchData\\FetchData.Android\\FetchData.Android.csproj": {
+    "E:\\Projetos\\TP04-PDMI6\\FetchData\\FetchData\\FetchData.Android\\FetchData.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projetos\\FetchData\\FetchData\\FetchData.Android\\FetchData.Android.csproj",
+        "projectUniqueName": "E:\\Projetos\\TP04-PDMI6\\FetchData\\FetchData\\FetchData.Android\\FetchData.Android.csproj",
         "projectName": "FetchData.Android",
-        "projectPath": "E:\\Projetos\\FetchData\\FetchData\\FetchData.Android\\FetchData.Android.csproj",
+        "projectPath": "E:\\Projetos\\TP04-PDMI6\\FetchData\\FetchData\\FetchData.Android\\FetchData.Android.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\Projetos\\FetchData\\FetchData\\FetchData.Android\\obj\\",
+        "outputPath": "E:\\Projetos\\TP04-PDMI6\\FetchData\\FetchData\\FetchData.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -34,8 +34,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "E:\\Projetos\\FetchData\\FetchData\\FetchData\\FetchData.csproj": {
-                "projectPath": "E:\\Projetos\\FetchData\\FetchData\\FetchData\\FetchData.csproj"
+              "E:\\Projetos\\TP04-PDMI6\\FetchData\\FetchData\\FetchData\\FetchData.csproj": {
+                "projectPath": "E:\\Projetos\\TP04-PDMI6\\FetchData\\FetchData\\FetchData\\FetchData.csproj"
               }
             }
           }
@@ -56,14 +56,14 @@
         }
       }
     },
-    "E:\\Projetos\\FetchData\\FetchData\\FetchData\\FetchData.csproj": {
+    "E:\\Projetos\\TP04-PDMI6\\FetchData\\FetchData\\FetchData\\FetchData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projetos\\FetchData\\FetchData\\FetchData\\FetchData.csproj",
+        "projectUniqueName": "E:\\Projetos\\TP04-PDMI6\\FetchData\\FetchData\\FetchData\\FetchData.csproj",
         "projectName": "FetchData",
-        "projectPath": "E:\\Projetos\\FetchData\\FetchData\\FetchData\\FetchData.csproj",
+        "projectPath": "E:\\Projetos\\TP04-PDMI6\\FetchData\\FetchData\\FetchData\\FetchData.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\Projetos\\FetchData\\FetchData\\FetchData\\obj\\",
+        "outputPath": "E:\\Projetos\\TP04-PDMI6\\FetchData\\FetchData\\FetchData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files (x86)\\Visual Studio Shared\\NuGetPackages",

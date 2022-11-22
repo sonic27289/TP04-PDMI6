@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "seM4mwXuv3NQHIxC04K7jZwI66JOSxyQjUSf//4RL5uHAg+nI/OE+JsztGw4SOY5sd01YxAbIFuK14/VWYEgfQ==",
+  "dgSpecHash": "p9e7UPaGP9mf+OH+IBtmFb30OSL4RZD/JTIm6wB6BBQZUwnWBFV9QutB+0ZaM+6lKoUajet2PJqMHx0IuAaMxw==",
   "success": true,
-  "projectFilePath": "E:\\Projetos\\FetchData\\FetchData\\FetchData\\FetchData.csproj",
+  "projectFilePath": "E:\\Projetos\\TP04-PDMI6\\FetchData\\FetchData\\FetchData\\FetchData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
