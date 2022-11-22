@@ -1,0 +1,14 @@
+E:\Projetos\FetchData\FetchData\FetchData\bin\Debug\netstandard2.0\FetchData.deps.json
+E:\Projetos\FetchData\FetchData\FetchData\bin\Debug\netstandard2.0\FetchData.dll
+E:\Projetos\FetchData\FetchData\FetchData\bin\Debug\netstandard2.0\ref\FetchData.dll
+E:\Projetos\FetchData\FetchData\FetchData\bin\Debug\netstandard2.0\FetchData.pdb
+E:\Projetos\FetchData\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.csprojAssemblyReference.cache
+E:\Projetos\FetchData\FetchData\FetchData\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Projetos\FetchData\FetchData\FetchData\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Projetos\FetchData\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.AssemblyInfoInputs.cache
+E:\Projetos\FetchData\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.AssemblyInfo.cs
+E:\Projetos\FetchData\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.csproj.CoreCompileInputs.cache
+E:\Projetos\FetchData\FetchData\FetchData\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Projetos\FetchData\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.dll
+E:\Projetos\FetchData\FetchData\FetchData\obj\Debug\netstandard2.0\ref\FetchData.dll
+E:\Projetos\FetchData\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.pdb
